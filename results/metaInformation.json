@@ -1,0 +1,21 @@
+{
+  "version": "1.0",
+  "total": 0,
+  "tools inspection": {
+    "Code Inspection": 0
+  },
+  "linter": "QDJVMC",
+  "attributes": {
+    "deviceId": "200820300000000-58f9-1d13-c565-7289a0e4b789",
+    "jobUrl": "https://github.com/MarcoPNS/intellij-neos/actions/runs/14854589761",
+    "vcs": {
+      "sarifIdea": {
+        "repositoryUri": "https://github.com/MarcoPNS/intellij-neos.git",
+        "revisionId": "28e3e6e85f3741daf7fb0336057af1547f34a112",
+        "branch": "2025-support"
+      }
+    },
+    "repoUrl": "https://github.com/MarcoPNS/intellij-neos.git"
+  },
+  "linterVersion": "242.24640"
+}
